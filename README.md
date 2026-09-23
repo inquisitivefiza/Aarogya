@@ -45,11 +45,7 @@ Progress Tracking
 
 Aarogya brings **AI-assisted coaching, fitness tracking, nutrition guidance, and motivation** into a single mobile experience, reducing dependence on separate tools while making personalized fitness guidance more accessible.
 
-### 📸 Preview
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f5d09c26-e1c6-4f6d-a9e2-f7297d7b5eec" alt="Aarogya Preview" width="800">
-</p>
 
 ### 👥 Team — MindForge
 
