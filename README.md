@@ -1,5 +1,3 @@
-Got it. You want it to **read naturally like a polished project README**, without explicit sections named “What / How / Impact,” while still clearly communicating the problem, implementation, and measurable value.
-
 # 🧘‍♀️ Aarogya — AI-Powered Fitness Coach
 
 > **Train smarter. Move better. Stay consistent.**
